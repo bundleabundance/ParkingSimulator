@@ -1,0 +1,14 @@
+/Users/alper/Desktop/proj/ParkingSimulation/bin/Debug/net7.0/ParkingSimulation
+/Users/alper/Desktop/proj/ParkingSimulation/bin/Debug/net7.0/ParkingSimulation.deps.json
+/Users/alper/Desktop/proj/ParkingSimulation/bin/Debug/net7.0/ParkingSimulation.runtimeconfig.json
+/Users/alper/Desktop/proj/ParkingSimulation/bin/Debug/net7.0/ParkingSimulation.dll
+/Users/alper/Desktop/proj/ParkingSimulation/bin/Debug/net7.0/ParkingSimulation.pdb
+/Users/alper/Desktop/proj/ParkingSimulation/obj/Debug/net7.0/ParkingSimulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alper/Desktop/proj/ParkingSimulation/obj/Debug/net7.0/ParkingSimulation.AssemblyInfoInputs.cache
+/Users/alper/Desktop/proj/ParkingSimulation/obj/Debug/net7.0/ParkingSimulation.AssemblyInfo.cs
+/Users/alper/Desktop/proj/ParkingSimulation/obj/Debug/net7.0/ParkingSimulation.csproj.CoreCompileInputs.cache
+/Users/alper/Desktop/proj/ParkingSimulation/obj/Debug/net7.0/ParkingSimulation.dll
+/Users/alper/Desktop/proj/ParkingSimulation/obj/Debug/net7.0/refint/ParkingSimulation.dll
+/Users/alper/Desktop/proj/ParkingSimulation/obj/Debug/net7.0/ParkingSimulation.pdb
+/Users/alper/Desktop/proj/ParkingSimulation/obj/Debug/net7.0/ParkingSimulation.genruntimeconfig.cache
+/Users/alper/Desktop/proj/ParkingSimulation/obj/Debug/net7.0/ref/ParkingSimulation.dll
